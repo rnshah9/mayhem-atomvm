@@ -1,0 +1,7 @@
+project: rnshah9/mayhem-atomvm
+target: playground
+tests: null
+
+cmds:
+  - cmd: /repo/build/src/AtomVM @@
+    filepath: /test.avm
