@@ -1,6 +1,6 @@
 project: rnshah9/mayhem-atomvm
 target: playground
-tests: ./corpus
+tests: /repo/corpus
 
 cmds:
   - cmd: /repo/build/src/AtomVM @@
