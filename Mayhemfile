@@ -5,3 +5,5 @@ tests: ./corpus
 cmds:
   - cmd: /repo/build/src/AtomVM @@
     filepath: /test.avm
+  - cmd: /repo/build/src/AtomVM @@
+    filepath: /test.beam
